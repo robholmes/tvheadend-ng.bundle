@@ -6,6 +6,6 @@
   "error_no_tags": "Please add tags to your TV-Headend. Otherwise bouquets are not available.",
   "error_gracenote_missing_clientid": "Gracenote support configured but no client id supplied.",
   "allchans": "All channels",
-  "tagchans": "Bouquets",
+  "tagchans": "By Tag",
   "preferences": "Settings"
 }
